@@ -1,6 +1,7 @@
 var express = require("express")
 
 // Create API project in this file
+// Hello World example code
 var app = express()
 
 app.get('/', function (req, res) {
